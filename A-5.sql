@@ -72,6 +72,4 @@ SELECT title FROM movie ORDER BY price DESC;
 SELECT fname FROM cust WHERE LENGTH(fname) = 4;
 
 
-commit;commit;-- 1.	Calculate the square root of the price of each movie.
-
-SELECT title, SQRT(price) AS price FROM movie;
+commit;
