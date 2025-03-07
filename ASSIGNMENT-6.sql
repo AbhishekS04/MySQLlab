@@ -17,3 +17,7 @@
 -- 13.	Find out if the movie starring' tom cruise' is issued to any customer and print the custid to whom it is issued.
 -- 14.	Find the lname, fname who have been issued movies.
 -- 15.	Find the name of customer whose has not issued any movie
+<<<<<<< HEAD
+=======
+--
+>>>>>>> 573cc151e8781490afff69e27b8dafd2df0f9d29
